@@ -1,4 +1,3 @@
-var _ = require("underscore");
 var ex1 = {
 	spiral: function (n,m,y,x){
 		var result = [];
