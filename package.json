@@ -1,0 +1,24 @@
+{
+  "name": "spiralwalk",
+  "version": "0.0.0",
+  "description": "This is a simple spiral matrix walker that builds a matrix and walks over it in a spiral",
+  "main": "spiralwalk.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "underscore": "~1.5.2"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Interview",
+    "Question"
+  ],
+  "author": "Eran Zimbler",
+  "license": "BSD-2-Clause"
+}
